@@ -139,13 +139,20 @@ const ProductDetail = () => {
                                 <p className="text-[10px] text-muted uppercase mt-1">Delivery in 2-4 working days across India.</p>
                              </div>
                         </div>
-                        {/* <div className="flex gap-4 items-start">
-                             <div className="bg-gray-100 p-2"><RefreshCw className="w-5 h-5" /></div>
+                        <div className="flex gap-4 items-start">
+                             <div className="bg-gray-100 p-2"><ShoppingBag className="w-5 h-5" /></div>
                              <div>
-                                <h4 className="text-xs font-bold uppercase tracking-widest">7 Days Return Policy</h4>
-                                <p className="text-[10px] text-muted uppercase mt-1">Easy returns and quick refunds guaranteed.</p>
+                                <h4 className="text-xs font-bold uppercase tracking-widest">Hassle-Free Ordering</h4>
+                                <p className="text-[10px] text-muted uppercase mt-1">Direct support and live tracking for every order.</p>
                              </div>
-                        </div> */}
+                        </div>
+                        <div className="flex gap-4 items-start">
+                             <div className="bg-gray-100 p-2"><Heart className="w-5 h-5" /></div>
+                             <div>
+                                <h4 className="text-xs font-bold uppercase tracking-widest">Premium Quality</h4>
+                                <p className="text-[10px] text-muted uppercase mt-1">Crafted with high-grade fabrics for durability.</p>
+                             </div>
+                        </div>
                     </div>
 
                     <div className="mt-12">

@@ -105,13 +105,13 @@ const Home = () => {
                             <h3 className="font-bold uppercase tracking-widest text-sm mb-2">Premium Quality</h3>
                             <p className="text-muted text-xs uppercase px-8">240 GSM Bio-washed premium cotton guarantee.</p>
                         </div>
-                        {/* <div className="flex flex-col items-center text-center feature-item">
+                        <div className="flex flex-col items-center text-center feature-item">
                             <div className="w-16 h-16 bg-gray-50 flex items-center justify-center mb-4 transition-transform hover:rotate-12">
-                                <Truck className="w-8 h-8" />
+                                <ShoppingBag className="w-8 h-8" />
                             </div>
-                            <h3 className="font-bold uppercase tracking-widest text-sm mb-2">Easy Returns</h3>
-                            <p className="text-muted text-xs uppercase px-8">No-questions-asked 7 days return policy.</p>
-                        </div> */}
+                            <h3 className="font-bold uppercase tracking-widest text-sm mb-2">Direct Order Support</h3>
+                            <p className="text-muted text-xs uppercase px-8">Real-time assistance for all your orders via WhatsApp.</p>
+                        </div>
                     </div>
                 </div>
             </section>
