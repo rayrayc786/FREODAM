@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "BLACK OPS OVERSIZED T-SHIRT",
+    "price": 899,
+    "originalPrice": 1299,
+    "category": "Oversized T-Shirts",
+    "images": ["https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?q=80&w=1000"],
+    "sizes": ["S", "M", "L", "XL"],
+    "discount": 30,
+    "isNew": true,
+    "description": "Premium 240 GSM cotton blend. Features a dropped shoulder design and high-density puff print on front."
+  },
+  {
+    "id": "2",
+    "name": "NEON VIBE CARGO PANTS",
+    "price": 1899,
+    "originalPrice": 2499,
+    "category": "Bottoms",
+    "images": ["https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?q=80&w=1000"],
+    "sizes": ["30", "32", "34", "36"],
+    "discount": 24,
+    "isNew": false,
+    "description": "Multi-pocket cargo pants with adjustable drawstrings at the ankle. Durable ripstop fabric."
+  },
+  {
+    "id": "3",
+    "name": "MONOSTRIPE OVERSIZED T-SHIRT",
+    "price": 899,
+    "originalPrice": 1099,
+    "category": "Oversized T-Shirts",
+    "images": ["https://images.unsplash.com/photo-1576566588028-4147f3842f27?q=80&w=1000"],
+    "sizes": ["S", "M", "L", "XL"],
+    "discount": 18,
+    "isNew": true,
+    "description": "Minimalist stripe design. Ultra-soft combed cotton for all-day comfort."
+  },
+  {
+    "id": "4",
+    "name": "VARSITY SHACKET - OFF WHITE",
+    "price": 1999,
+    "originalPrice": 2499,
+    "category": "Outerwear",
+    "images": ["https://images.unsplash.com/photo-1591047139829-d91aecb6caea?q=80&w=1000"],
+    "sizes": ["M", "L", "XL"],
+    "discount": 20,
+    "isNew": false,
+    "description": "Oversized fit shirt jacket with varsity patches and quilted lining."
+  }
+]

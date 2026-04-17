@@ -1,0 +1,30 @@
+:root {
+  /* Colors */
+  --color-primary: #000000;
+  --color-on-primary: #FFFFFF;
+  --color-primary-container: #1A1A1A;
+  
+  --color-background: #FFFFFF;
+  --color-on-background: #000000;
+  
+  --color-surface: #FFFFFF;
+  --color-surface-container: #F9F9F9;
+  --color-surface-container-high: #F0F0F0;
+  --color-on-surface: #000000;
+  --color-on-surface-variant: #777777;
+  
+  --color-outline: #000000;
+  --color-outline-variant: #EEEEEE;
+
+  /* Typography */
+  --font-display: 'Plus Jakarta Sans', 'Inter', sans-serif;
+  --font-body: 'Manrope', 'Inter', sans-serif;
+  --font-label: 'Inter', sans-serif;
+
+  /* Radii */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-sharp: 0px;
+}
