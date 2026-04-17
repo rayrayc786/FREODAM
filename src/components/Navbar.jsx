@@ -79,7 +79,7 @@ const Navbar = () => {
         <Link to="/" className="flex items-center">
           <span className="font-display text-2xl font-black italic tracking-tighter">
             <span className={isHome && !isScrolled ? 'text-white' : 'text-black'}>FREO</span>
-            <span className="text-accent underline decoration-2 underline-offset-4">DAM</span>
+            <span className="text-accent underline decoration-2 underline-offset-4">DEM</span>
           </span>
         </Link>
 

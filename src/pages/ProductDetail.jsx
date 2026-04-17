@@ -32,7 +32,7 @@ const ProductDetail = () => {
 
     const handleWhatsAppOrder = () => {
         const sizeMsg = selectedSize ? `(Size: ${selectedSize})` : '';
-        const message = `*INQUIRY FROM FREODAM*\n\nI want to buy: *${product.name}* ${sizeMsg}\nPrice: ₹${product.price}\nImage: ${window.location.href}`;
+        const message = `*INQUIRY FROM FREODEM*\n\nI want to buy: *${product.name}* ${sizeMsg}\nPrice: ₹${product.price}\nImage: ${window.location.href}`;
         const phone = "919056697204";
         const url = `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
         window.open(url, "_blank");
@@ -139,13 +139,13 @@ const ProductDetail = () => {
                                 <p className="text-[10px] text-muted uppercase mt-1">Delivery in 2-4 working days across India.</p>
                              </div>
                         </div>
-                        <div className="flex gap-4 items-start">
+                        {/* <div className="flex gap-4 items-start">
                              <div className="bg-gray-100 p-2"><RefreshCw className="w-5 h-5" /></div>
                              <div>
                                 <h4 className="text-xs font-bold uppercase tracking-widest">7 Days Return Policy</h4>
                                 <p className="text-[10px] text-muted uppercase mt-1">Easy returns and quick refunds guaranteed.</p>
                              </div>
-                        </div>
+                        </div> */}
                     </div>
 
                     <div className="mt-12">

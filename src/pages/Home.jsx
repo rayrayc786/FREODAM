@@ -105,13 +105,13 @@ const Home = () => {
                             <h3 className="font-bold uppercase tracking-widest text-sm mb-2">Premium Quality</h3>
                             <p className="text-muted text-xs uppercase px-8">240 GSM Bio-washed premium cotton guarantee.</p>
                         </div>
-                        <div className="flex flex-col items-center text-center feature-item">
+                        {/* <div className="flex flex-col items-center text-center feature-item">
                             <div className="w-16 h-16 bg-gray-50 flex items-center justify-center mb-4 transition-transform hover:rotate-12">
                                 <Truck className="w-8 h-8" />
                             </div>
                             <h3 className="font-bold uppercase tracking-widest text-sm mb-2">Easy Returns</h3>
                             <p className="text-muted text-xs uppercase px-8">No-questions-asked 7 days return policy.</p>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </section>
@@ -121,7 +121,7 @@ const Home = () => {
                 <div className="flex items-center gap-12 animate-marquee inline-block">
                     {[1,2,3,4,5,6,7,8].map(i => (
                         <span key={i} className="text-white font-black italic text-xl uppercase tracking-tighter">
-                            FLAT 50% OFF • NEW DROP LIVE • FREODAM STREETWEAR • JOIN THE GANG •
+                            FLAT 50% OFF • NEW DROP LIVE • FREODEM STREETWEAR • JOIN THE GANG •
                         </span>
                     ))}
                 </div>

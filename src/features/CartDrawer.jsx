@@ -13,7 +13,7 @@ const CartDrawer = () => {
     const handleWhatsAppOrder = () => {
         if (items.length === 0) return;
 
-        let message = `*NEW ORDER FROM FREODAM*\n\n`;
+        let message = `*NEW ORDER FROM FREODEM*\n\n`;
         items.forEach((item, index) => {
             message += `${index + 1}. *${item.name}*\n`;
             message += `   Size: ${item.size} | Qty: ${item.quantity}\n`;

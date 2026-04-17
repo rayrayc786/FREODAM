@@ -31,7 +31,7 @@ function App() {
       <footer className="bg-black text-white py-16 px-4">
         <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-12">
           <div className="col-span-1 md:col-span-1">
-            <h2 className="font-display text-2xl font-black italic mb-6">FREO<span className="text-accent underline">DAM</span></h2>
+            <h2 className="font-display text-2xl font-black italic mb-6">FREO<span className="text-accent underline">DEM</span></h2>
             <p className="text-gray-400 text-[10px] uppercase font-bold tracking-widest leading-loose">
               Streetwear that defines attitude. Experience premium comfort with our new oversized drop.
             </p>
@@ -65,7 +65,7 @@ function App() {
           </div>
         </div>
         <div className="max-w-7xl mx-auto border-t border-white/10 mt-16 pt-8 text-center">
-          <p className="text-[9px] text-gray-500 uppercase font-bold tracking-[0.2em]">© 2026 FREODAM. BEYOND ORDINARY. DESIGNED FOR THE GANG.</p>
+          <p className="text-[9px] text-gray-500 uppercase font-bold tracking-[0.2em]">© 2026 FREODEM. BEYOND ORDINARY. DESIGNED FOR THE GANG.</p>
         </div>
       </footer>
     </div>

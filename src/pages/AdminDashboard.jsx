@@ -36,7 +36,7 @@ const AdminDashboard = () => {
         return (
             <div className="min-h-screen flex items-center justify-center bg-black p-4">
                 <div className="bg-white p-8 max-w-md w-full shadow-2xl">
-                    <h1 className="font-display text-2xl font-black italic mb-6 text-center underline underline-offset-8 decoration-accent">FREODAM ADMIN</h1>
+                    <h1 className="font-display text-2xl font-black italic mb-6 text-center underline underline-offset-8 decoration-accent">FREODEM ADMIN</h1>
                     <form onSubmit={handleLogin} className="space-y-4">
                         <input 
                             type="password" 
