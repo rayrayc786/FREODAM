@@ -33,7 +33,7 @@ const ProductDetail = () => {
     const handleWhatsAppOrder = () => {
         const sizeMsg = selectedSize ? `(Size: ${selectedSize})` : '';
         const message = `*INQUIRY FROM FREODAM*\n\nI want to buy: *${product.name}* ${sizeMsg}\nPrice: ₹${product.price}\nImage: ${window.location.href}`;
-        const phone = "919876543210";
+        const phone = "919056697204";
         const url = `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
         window.open(url, "_blank");
     };
